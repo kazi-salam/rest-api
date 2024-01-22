@@ -1,5 +1,3 @@
-// express js bangla tutorial 17 : REST API without database | MVC create a REST
-
 api without database
 
 - we will follow MVC architecture
